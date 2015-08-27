@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shoppinglist.ShoppingListActivity" >
+
+    <item android:id="@+id/action_add_new"
+          android:icon="@drawable/add_item"
+          android:title="@string/action_addNew" 
+          android:showAsAction="always"/>
+    
+      <item android:id="@+id/action_unstrikeAll"
+          android:title="@string/action_unstrikAll" 
+          android:showAsAction="always"/>
+</menu>

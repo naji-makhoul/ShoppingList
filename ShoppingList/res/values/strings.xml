@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shopping List</string> 
+    <string name="hello_world">Hello world!</string>
+    <string name="title_fragment_shopping_list">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addNew">Add New</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="store_name">Store name:</string>
+    <string name="item_name">item name:</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="shopMode">Shope Mode</string>
+    <string name="title_fragment_store_list">Stores List</string>
+	<string name="action_deleteAll">Delete all items</string>
+	<string name="action_unstrikAll">Unstrike All</string>
+	<string name="action_payment">pay</string>
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:id="@+id/action_shop_mode"
+          android:icon="@drawable/shop_mode_off"
+          android:title="@string/shopMode" 
+          android:showAsAction="always"/>
+     
+    <item android:id="@+id/action_add_new"
+          android:icon="@drawable/add_item"
+          android:title="@string/action_addNew" 
+          android:showAsAction="always"/>
+     
+     <item android:id="@+id/action_unstrikeAll"
+          android:title="@string/action_unstrikAll" 
+          android:showAsAction="always"/>
+     
+      <item android:id="@+id/action_payment"
+          android:icon="@drawable/payment_icon"
+          android:title="@string/action_payment" 
+          android:showAsAction="always"/>
+</menu>
