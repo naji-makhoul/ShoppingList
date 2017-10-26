@@ -1,3 +1,3 @@
-# ShoppingList
+# ShoppingList - Android
 ShoppingList using sqlite
  
